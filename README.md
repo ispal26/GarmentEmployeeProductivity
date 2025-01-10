@@ -1,7 +1,7 @@
-# H1 Predictive Analysis of Garment Employee Productivity
+# Predictive Analysis of Garment Employee Productivity
 This repository contains an analysis aimed at understanding the factors influencing garment employee productivity and identifying areas for improvement. The project leverages data science techniques to provide actionable insights for optimizing employee performance and resource allocation in the labor-intensive garment industry.
 
-##H2 Objective
+##Objective
 Explore relationships between incentives, allocated task time, team size, and productivity.
 Provide managers with data-driven tools to enhance workforce efficiency.
 Key Features
@@ -14,7 +14,7 @@ Missing Data Handling: Median imputation applied to wip variable (506 missing va
 Exploratory Data Analysis (EDA):
 Insights into key variables and their relationships.
 
-Predictive Modeling:
+##Predictive Modeling:
 
 Model Forecast: ~60.06% average productivity rate.
 Key Findings:
@@ -24,6 +24,6 @@ Team Size: Each additional worker increases productivity by ~0.32%.
 Practical Implications
 Incentive Strategies: Optimize employee rewards for enhanced performance.
 Resource Allocation: Balance task times and workforce for improved output.
-References
+###References & Resources : 
 UCI Machine Learning Repository
 Hasnat, S. (2023, November 8). Workers making clothes for top brands reject a proposal: $113 A month. NY Times Article
