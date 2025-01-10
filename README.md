@@ -1,7 +1,7 @@
-***Predictive Analysis of Garment Employee Productivity***
+	# H1Predictive Analysis of Garment Employee Productivity
 This repository contains an analysis aimed at understanding the factors influencing garment employee productivity and identifying areas for improvement. The project leverages data science techniques to provide actionable insights for optimizing employee performance and resource allocation in the labor-intensive garment industry.
 
-**Objective**
+##H2 Objective
 Explore relationships between incentives, allocated task time, team size, and productivity.
 Provide managers with data-driven tools to enhance workforce efficiency.
 Key Features
