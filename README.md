@@ -7,9 +7,13 @@ Provide managers with data-driven tools to enhance workforce efficiency.
 
 ## Key Features
 **Dataset:** UCI ML Repository - Productivity Prediction of Garment Employees
+
 **Observation Period:** December 2014 – October 2015
+
 **Variables:** Productivity measures, task times, incentives, team sizes, etc.
+
 **Missing Data Handling:** Median imputation applied to Work In Progress variable (506 missing values).
+
 **Exploratory Data Analysis(EDA):** Insights into key variables and their relationships.
 
 ### Predictive Modeling:
