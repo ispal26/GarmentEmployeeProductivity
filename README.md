@@ -1,7 +1,7 @@
 # Predictive Analysis of Garment Employee Productivity
 This repository contains an analysis aimed at understanding the factors influencing garment employee productivity and identifying areas for improvement. The project leverages data science techniques to provide actionable insights for optimizing employee performance and resource allocation in the labor-intensive garment industry.
 
-##Objective
+## Objective
 Explore relationships between incentives, allocated task time, team size, and productivity.
 Provide managers with data-driven tools to enhance workforce efficiency.
 Key Features
@@ -14,7 +14,7 @@ Missing Data Handling: Median imputation applied to wip variable (506 missing va
 Exploratory Data Analysis (EDA):
 Insights into key variables and their relationships.
 
-##Predictive Modeling:
+### Predictive Modeling:
 
 Model Forecast: ~60.06% average productivity rate.
 Key Findings:
