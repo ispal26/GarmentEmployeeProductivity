@@ -18,13 +18,19 @@ Provide managers with data-driven tools to enhance workforce efficiency.
 
 ### Predictive Modeling:
 Model Forecast: ~60.06% average productivity rate.
-Key Findings:
+
+### Key Findings:
 Incentives: A 10 BDT increase boosts productivity by ~2.95%.
+
 Task Time: A 1-minute reduction leads to ~0.41% productivity loss.
+
 Team Size: Each additional worker increases productivity by ~0.32%.
-Practical Implications
+
+### Practical Implications
 Incentive Strategies: Optimize employee rewards for enhanced performance.
 Resource Allocation: Balance task times and workforce for improved output.
+
+
 ### References & Resources : 
 UCI Machine Learning Repository
 Hasnat, S. (2023, November 8). Workers making clothes for top brands reject a proposal: $113 A month. NY Times Article
