@@ -4,13 +4,11 @@ This repository contains an analysis aimed at understanding the factors influenc
 ## Objective
 Explore relationships between incentives, allocated task time, team size, and productivity.
 Provide managers with data-driven tools to enhance workforce efficiency.
-Key Features
-Data Source:
-
+## Key Features
 Dataset: UCI ML Repository - Productivity Prediction of Garment Employees
 Observation Period: December 2014 – October 2015
 Variables: Productivity measures, task times, incentives, team sizes, and more.
-Missing Data Handling: Median imputation applied to wip variable (506 missing values).
+Missing Data Handling: Median imputation applied to Work In Progress variable (506 missing values).
 Exploratory Data Analysis (EDA):
 Insights into key variables and their relationships.
 
