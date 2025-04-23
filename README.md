@@ -33,4 +33,4 @@ Resource Allocation: Balance task times and workforce for improved output.
 
 ### References & Resources : 
 UCI Machine Learning Repository
-Hasnat, S. (2023, November 8). Workers making clothes for top brands reject a proposal: $113 A month. NY Times Article
+Hasnat, S. (2023, November 8). Workers making clothes for top brands reject a proposal: NY Times Article
